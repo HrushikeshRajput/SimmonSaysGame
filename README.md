@@ -1,2 +1,4 @@
 # SimmonSaysGame
-I build simmonsays game to play in boring time
+I build SimmonSays game to play in boring time
+# Devloped By-
+Hrushikesh Rajput
